@@ -14,6 +14,7 @@ nav_order: 6
 - University of Michigan Next-generation Transportation Seminar
 
 ## Conference Presentations
+- 2025 INFORMS Annual Meeting
 - 2025 Modeling Mobility Conference
 - 2nd Conference on Foundation Models and AI Agents for Science
 - 39th AAAI Conference on Artificial Intelligence
