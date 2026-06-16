@@ -9,11 +9,14 @@ nav_order: 6
 
 
 ## Invited Talks
+- Purdue University Industrial Engineering Seminar
 - MIT LIDS Research Seminar
 - University of Washington Big Data, AI and Transportation Planning Applications Workshop
 - University of Michigan Next-generation Transportation Seminar
 
 ## Conference Presentations
+- 2026 IEEE Intelligent Vehicles Symposium
+- 2026 TRB Annual Meeting
 - 2025 INFORMS Annual Meeting
 - 2025 Modeling Mobility Conference
 - 2nd Conference on Foundation Models and AI Agents for Science

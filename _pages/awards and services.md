@@ -9,6 +9,10 @@ nav_order: 5
 
 
 ## Awards
+- Schmidt AI in Science Fellow, 2026
+- Towner Prize For Distinguished Academic Achievement of University of Michigan, 2026
+- Schmidt Science Fellow Global Finalist (top 99 in the world), 2026
+- Nomination for University of Michigan Rackham Outstanding GSI award, 2026
 - Nomination for University of Michigan College of Engineering Richard and Eleanor Towner Prize for Outstanding GSIs, 2025
 - Nomination for University of Michigan Rackham Outstanding GSI award, 2025
 - National Science Foundation travel grant, 2023
@@ -19,6 +23,7 @@ nav_order: 5
 - 3rd place of 14th Tsinghua AI challenge, 2017
 
 ## University and professional services
+- University of Michigan Summer Undergraduate Research Program graduate student mentor, 2026
 - University of Michigan Summer Undergraduate Research Program graduate student mentor, 2025
 - INFORMS Annual Meeting Session Chair, 2024 & 2023
 - Head student coordinator of the 25th International Symposium on Transportation and Traffic Theory, 2024
@@ -29,12 +34,17 @@ nav_order: 5
 ## Referee services
 - Transportation Science
 - Transportation Research Part A: Policy and Practice
+- Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
 - Transportation
+- Transportation Research Record
 - Journal of Transport Geography
 - Artificial Intelligence for Transportation
 - European Transport Research Review
 - npj Urban Sustainability
+- Computers and Operations Research
+- Applied Artificial Intelligence
+- Plos One
 - TRB Annual Meeting
 
 
