@@ -30,16 +30,19 @@ nav_order: 5
 - INFORMS TSL Second Triennial Conference Session Chair, 2023
 - University of Michigan Next Generation Transportation Seminar head student coordinator, 2023
 
+## Editorial services
+- Early-career editorial board member, Journal of Intelligent Transportation Systems
 
 ## Referee services
 - Transportation Science
 - Transportation Research Part A: Policy and Practice
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies
+- Journal of Transport Geography
+- Journal of Intelligent Transportation Systems
+- Artificial Intelligence for Transportation
 - Transportation
 - Transportation Research Record
-- Journal of Transport Geography
-- Artificial Intelligence for Transportation
 - European Transport Research Review
 - npj Urban Sustainability
 - Computers and Operations Research

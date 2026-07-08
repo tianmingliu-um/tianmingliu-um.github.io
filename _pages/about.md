@@ -27,11 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student advised by Dr. Yafeng Yin in the Civil and Enviornmental Enginnering Department at University of Michigan, majoring in transportation systems engineering. I am expected to obtain a Ph.D. degree in transportation engineering in Fall 2025, and have obtained my B.S. degree in control science and engineering from Tsinghua University in 2020.
+I am an incoming Schmidt AI in Science Fellow at Michigan Institute of Data Science & AI in Society. I obtained my Ph.D. degree in transportation engineering (advised by Dr. Yafeng Yin) and M.S. degree in Industrial and Operations Engineering from University of Michigan in 2025, and have obtained my B.S. degree in control science and engineering from Tsinghua University in 2020.
 
-My research operates at the intersection of behavioral science, artificial intelligence, and network theory to craft next-generation models and management strategies for intelligent transportation systems. Methodologically, my research integrates behavior economics, statistical learning, network modeling, queueing theory, and generative artificial intelligence. Currently, my research work features:
-- Agentic-LLM-powered models and simulations of transportation systems
-- Multimodal data fusion and high-fieldity behavior modeling
-- Behavior-informed operations management of mobility systems
+My research operates at the intersection of behavioral science, artificial intelligence, and network theory to craft next-generation models and management strategies for smart transportation and logistics systems. Methodologically, my research integrates behavior economics, statistical learning, network modeling, queueing theory, and generative artificial intelligence. Currently, my research work features:
+- Agentic-LLM-powered models of transportation systems
+- Generative-AI-driven data synthesis and LLM alignment
+- Structural and AI-augmented behavior modeling
+- Behavior-informed operations management of mobility and logistics systems
 
-I am currently on the academic job market for the 2025-2026 school year and is seeking a tenure-track assistant professor position related to transportation engineering, systems engineering and urban artificial intelligence.
+I am currently on the academic job market and is seeking a tenure-track assistant professor position related to transportation engineering, industrial and systems engineering and urban artificial intelligence.
