@@ -9,9 +9,9 @@ nav_order: 5
 
 
 ## Awards
-- Schmidt AI in Science Fellow, 2026
+- Eric and Wendy Schmidt AI in Science Fellow, 2026
 - Towner Prize For Distinguished Academic Achievement of University of Michigan, 2026
-- Schmidt Science Fellow Global Finalist (top 99 in the world), 2026
+- Schmidt Science Fellow Global Finalist, 2026
 - Nomination for University of Michigan Rackham Outstanding GSI award, 2026
 - Nomination for University of Michigan College of Engineering Richard and Eleanor Towner Prize for Outstanding GSIs, 2025
 - Nomination for University of Michigan Rackham Outstanding GSI award, 2025
