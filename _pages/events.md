@@ -9,6 +9,8 @@ nav_order: 6
 
 
 ## Invited Talks
+- UC Berkeley eMERGE Seminar
+- Transportation Research Board Webniar
 - Purdue University Industrial Engineering Seminar
 - MIT LIDS Research Seminar
 - University of Washington Big Data, AI and Transportation Planning Applications Workshop
